@@ -1,6 +1,6 @@
 # How To Run
 
-This was created on the intelliJ IDE.
+This was created on the intelliJ IDE, so adjust steps to your choice of software.
 
 1. Go to Run > Edit Configurations 
 2. Add New Configuration > Application
